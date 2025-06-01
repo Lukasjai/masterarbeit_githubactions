@@ -13,7 +13,6 @@ public class MasterarbeitGithubActionTestApplication {
         SpringApplication.run(MasterarbeitGithubActionTestApplication.class, args);
     }
 
-
     @RequestMapping("/")
     public String home() {return "Hello World Performance test 10 cloud GitHub";}
 
