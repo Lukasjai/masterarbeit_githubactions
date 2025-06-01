@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.masterarbeit_github_action_test.MasterarbeitGithubActionTestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.474 s -- in org.example.masterarbeit_github_action_test.MasterarbeitGithubActionTestApplicationTests
